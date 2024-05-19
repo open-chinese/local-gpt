@@ -1,7 +1,11 @@
 # local-gpt
 
 
-## Finally here's a simple e2e demo, all the source code will be released before June. most importantly, it will be a one click deployment project.
+#### release notes
+
+- 2024/05/20 (1:00 am) release v1.0, with a basic gpt backend api server, and a simple vue.js web ui
+
+
 
 #### 1. Frontend
 
