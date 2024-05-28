@@ -41,4 +41,4 @@ if __name__ == "__main__":
     # worker = CommentReplyWorker()
     # worker.start()
     app.config['JSON_AS_ASCII'] = False
-    app.run(host="0.0.0.0", debug=False, port=80, threaded=True)
+    app.run(host="0.0.0.0", debug=False, port=5050, threaded=True)
