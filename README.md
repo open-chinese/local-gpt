@@ -1,3 +1,10 @@
+# release notes
+
+- 2024/05/20 (1:00 am) release v1.0, with a basic gpt backend api server, and a simple vue.js web ui
+- 2024/05/28 (11:36 pm) update deployment tutorial for GPT server
+
+
+
 # LocalGPT deploy
 
 The final version should be "one click deploy on PC"
@@ -114,10 +121,11 @@ print(response.text)
 
 
 
-
 # E2E demo
 
 Finally here's a simple e2e demo, all the source code will be released before June. most importantly, it will be a one click deployment project.
+
+
 
 #### 1. Frontend
 
