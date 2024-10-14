@@ -40,7 +40,7 @@ docker run --gpus all -it --rm -p 5050:5050 -p 5051:80 -v D:\docker_volume:/data
 
 - 3 setup env
 ```
-cd /data/local_gpt
+cd /data/localgpt
 bash init.sh
 ```
 
