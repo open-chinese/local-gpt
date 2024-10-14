@@ -2,6 +2,7 @@
 
 - 2024/05/20 (1:00 am) release v1.0, with a basic gpt backend api server, and a simple vue.js web ui
 - 2024/05/28 (11:36 pm) update deployment tutorial for GPT server
+- torch version should be updated, https://github.com/meta-llama/llama3/issues/80
 
 
 
